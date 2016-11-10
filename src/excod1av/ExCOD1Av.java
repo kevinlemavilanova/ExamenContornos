@@ -19,6 +19,8 @@ public class ExCOD1Av {
         //Commit master numero 1
         //commit numero2 master
         //commit numero 3 en master despues de crear la rama de exp pero todabia sin merge
+        //Creada rama exp a partir del 2º commit de la rama master
+        //segundo commit en exp
     }
     
 }
